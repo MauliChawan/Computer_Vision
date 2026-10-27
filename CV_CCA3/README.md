@@ -103,4 +103,4 @@ Lucas–Kanade: once the camera motion is subtracted, the person moves about 1.5
 
 ## Author
 
-Name: _\<your name\>_ · Roll no.: _\<roll number\>_ · Course: _\<course / semester\>_
+Name: _\<Mauli Chavhan>_ · PRN no.: _\<1272250992\>_ · Course: _\<SYMCA>_
