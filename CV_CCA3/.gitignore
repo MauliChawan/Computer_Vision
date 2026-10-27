@@ -1,0 +1,12 @@
+# Raw video is shared via Google Drive, not Git (see README)
+data/*.mp4
+data/*.mov
+# Generated videos and the full frame dump are large; selected result images are committed
+outputs/**/*.mp4
+outputs/task4/frames/seq_*.jpg
+# YOLO weights download automatically on first run
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.venv/

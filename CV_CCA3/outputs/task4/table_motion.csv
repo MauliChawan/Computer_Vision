@@ -1,0 +1,4 @@
+Method,Foreground area (% of frame),Precision – FG inside person box (%),Coverage of person box (%),Time per frame (ms)
+Frame differencing,7.8,33.5,7.3,0.7
+Frame diff + camera compensation,1.6,77.6,3.6,11.8
+GMM background subtraction (MOG2),16.1,35.2,19.9,20.2

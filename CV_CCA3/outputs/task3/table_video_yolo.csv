@@ -1,0 +1,6 @@
+Metric,Value
+Frames processed,176
+Frames with 'person' detected,176 (100.0%)
+Mean / min person confidence,0.90 / 0.77
+Other classes detected (number of frames),"car: 140, potted plant: 125, chair: 37, couch: 35, boat: 7, truck: 7, suitcase: 3, skateboard: 2, tv: 2"
+Mean YOLO time per frame (CPU),57 ms

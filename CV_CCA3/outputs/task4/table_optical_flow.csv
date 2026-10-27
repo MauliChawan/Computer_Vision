@@ -1,0 +1,3 @@
+Lucas–Kanade,Mean motion on person (px/frame),Mean motion on background (px/frame),Person / background ratio
+Raw flow (includes camera motion),4.3,5.4,0.8
+After subtracting camera motion,3.1,2.1,1.51

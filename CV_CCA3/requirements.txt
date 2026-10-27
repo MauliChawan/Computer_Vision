@@ -1,0 +1,9 @@
+opencv-python>=4.8,<5   # OpenCV 5 removed CascadeClassifier from the main package
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scikit-image>=0.21
+scipy>=1.10
+ultralytics>=8.1
+notebook>=7.0
+ipykernel>=6.0
